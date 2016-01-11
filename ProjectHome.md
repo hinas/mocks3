@@ -1,0 +1,1 @@
+A mock implementation of Amazon S3 as a simple Java Servlet with no additional dependencies beyond the servlet library.
